@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmoviimaps"]=self["webpackChunkmoviimaps"]||[]).push([[251],{7251:function(n,e,o){o.r(e),o.d(e,{default:function(){return m}});var t=function(){var n=this,e=n.$createElement,o=n._self._c||e;return o("div",[o("InformacionComponent"),n._v("> ")],1)},i=[],r=o(3699),s={name:"NosotrosView",components:{InformacionComponent:r.Z}},a=s,u=o(1001),c=(0,u.Z)(a,t,i,!1,null,"b02f8a34",null),m=c.exports}}]);
+//# sourceMappingURL=251-legacy.fff25678.js.map
